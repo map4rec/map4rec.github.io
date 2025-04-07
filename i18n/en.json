@@ -1,3 +1,18 @@
 {
-  "app.test": "Switch languages at runtime"
+  "app.title": "Map4Rec",
+  "app.subtitle": "Participatory Mapping Platform",
+  "modal.image-click-explanation": "Click an image to enlarge it.",
+  "modal.section-activities": "Activities",
+  "modal.section-ratings": "Ratings",
+  "modal.rating-safety": "Safety",
+  "modal.section-further-information": "Further information",
+  "activity.have_a_picnic": "Have a picnic",
+  "activity.play_on_the_playground": "Play on the playground",
+  "activity.play_active_games": "Play active games",
+  "activity.play_football": "Play football",
+  "activity.take_photos_its_beautiful_here": "Take photos, it's beautiful here",
+  "activity.relax_sit_chat_read": "Relax, sit, chat, read",
+  "activity.enjoy_nature": "Enjoy nature",
+  "activity.fish": "Fishing",
+  "activity.meet_someone_new": "Meet someone new"
 }

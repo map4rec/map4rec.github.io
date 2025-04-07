@@ -1,1 +1,18 @@
-{}
+{
+  "app.title": "Map4Rec",
+  "app.subtitle": "Платформа для спільного картографування",
+  "modal.image-click-explanation": "Натисніть на зображення, щоб збільшити його.",
+  "modal.section-activities": "Діяльність",
+  "modal.section-ratings": "Рейтинги",
+  "modal.rating-safety": "Безпека",
+  "modal.section-further-information": "Додаткова інформація",
+  "activity.have_a_picnic": "Влаштувати пікнік",
+  "activity.play_on_the_playground": "Грати на дитячому майданчику",
+  "activity.play_active_games": "Грати в активні ігри",
+  "activity.play_football": "Грати у футбол",
+  "activity.take_photos_its_beautiful_here": "Зробити фотографії, тут красиво",
+  "activity.relax_sit_chat_read": "Відпочити, посидіти, поспілкуватися, почитати",
+  "activity.enjoy_nature": "Насолоджуватися природою",
+  "activity.fish": "Риболовля",
+  "activity.meet_someone_new": "Познайомитися з кимось новим"
+}
