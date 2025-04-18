@@ -1,6 +1,6 @@
 {
   "app.title": "Map4Rec",
-  "app.subtitle": "Participatieve Kaartplatform",
+  "app.subtitle": "Natuur- en recreatieruimtes door de ogen van kinderen",
   "about.button-text": "Over",
   "about.label-tab-one": "Over",
   "about.label-tab-two": "Bijdragen",
@@ -17,10 +17,10 @@
   "modal.nature_rating": "Natuur",
   "modal.visitation_recommentation_rating": "Algemeen",
   "modal.section-further-information": "Verdere informatie",
+  "modal.label-liked": "Wat is goed",
+  "modal.label-disliked": "Wat is niet zo goed",
   "modal.label-safety": "Let op",
   "modal.label-imp": "Te verbeteren",
-  "modal.label-disliked": "Niet leuk",
-  "modal.label-liked": "Waarom bezoeken",
   "activity.observe_animals": "Dieren observeren",
   "activity.play_football": "Voetballen",
   "activity.relax": "Ontspannen",
@@ -35,5 +35,5 @@
   "activity.climb_trees": "Bomen klimmen",
   "activity.play_ping_pong": "Tafeltennissen",
   "activity.skate": "Skaten",
-  "activity.play_chess": "Schaak spelen"
+  "activity.swim": "Zwemmen"
 }

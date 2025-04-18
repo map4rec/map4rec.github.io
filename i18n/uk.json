@@ -1,6 +1,6 @@
 {
   "app.title": "Map4Rec",
-  "app.subtitle": "Платформа для участі в картографуванні",
+  "app.subtitle": "Природа та рекреаційні простори очима дітей",
   "about.button-text": "Про нас",
   "about.label-tab-one": "Про нас",
   "about.label-tab-two": "Внести свій внесок",
@@ -17,10 +17,10 @@
   "modal.nature_rating": "Природа",
   "modal.visitation_recommentation_rating": "Загальна оцінка",
   "modal.section-further-information": "Додаткова інформація",
+  "modal.label-liked": "Що добре",
+  "modal.label-disliked": "Що не так добре",
   "modal.label-safety": "Остерігайтеся",
   "modal.label-imp": "Щоб покращити",
-  "modal.label-disliked": "Не сподобалося",
-  "modal.label-liked": "Чому варто відвідати",
   "activity.observe_animals": "Спостерігати за тваринами",
   "activity.play_football": "Грати у футбол",
   "activity.relax": "Відпочивати",
@@ -29,11 +29,11 @@
   "activity.take_photos": "Фотографувати",
   "activity.have_a_picnic": "Влаштувати пікнік",
   "activity.enjoy_nature": "Насолоджуватися природою",
-  "activity.fish": "Рибалити",
+  "activity.fish": "Риба",
   "activity.meet_someone_new": "Познайомитися з кимось новим",
   "activity.ride_a_bike": "Кататися на велосипеді",
   "activity.climb_trees": "Лізти на дерева",
   "activity.play_ping_pong": "Грати в настільний теніс",
   "activity.skate": "Кататися на скейтборді",
-  "activity.play_chess": "Грати в шахи"
+  "activity.swim": "Плавання"
 }

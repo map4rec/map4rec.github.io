@@ -1,6 +1,6 @@
 {
   "app.title": "Map4Rec",
-  "app.subtitle": "Participatory Mapping Platform",
+  "app.subtitle": "Nature and Recreation Spaces Through the Eyes of Children",
   "about.button-text": "About",
   "about.label-tab-one": "About",
   "about.label-tab-two": "Contribute",
@@ -17,10 +17,10 @@
   "modal.nature_rating": "Nature",
   "modal.visitation_recommentation_rating": "Overall",
   "modal.section-further-information": "Further information",
+  "modal.label-liked": "What's good",
+  "modal.label-disliked": "What's not so good",
   "modal.label-safety": "Watch out for",
   "modal.label-imp": "To improve",
-  "modal.label-disliked": "Disliked",
-  "modal.label-liked": "Why visit",
   "activity.observe_animals": "Observe animals",
   "activity.play_football": "Play football",
   "activity.relax": "Relax",
@@ -29,11 +29,11 @@
   "activity.take_photos": "Take photos",
   "activity.have_a_picnic": "Have a picnic",
   "activity.enjoy_nature": "Enjoy nature",
-  "activity.fish": "Fishing",
+  "activity.fish": "Fish",
   "activity.meet_someone_new": "Meet someone new",
   "activity.ride_a_bike": "Ride a bike",
   "activity.climb_trees": "Climb trees",
   "activity.play_ping_pong": "Play ping pong",
   "activity.skate": "Skate",
-  "activity.play_chess": "Play chess"
+  "activity.swim": "Swim"
 }
