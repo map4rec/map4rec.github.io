@@ -35,5 +35,7 @@
   "activity.climb_trees": "Climb trees",
   "activity.play_ping_pong": "Play ping pong",
   "activity.skate": "Skate",
-  "activity.swim": "Swim"
+  "activity.swim": "Swim",
+  "filter.title": "Filter",
+  "filter.by-activity": "By activity"
 }

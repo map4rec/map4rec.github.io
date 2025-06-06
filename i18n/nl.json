@@ -35,5 +35,7 @@
   "activity.climb_trees": "Bomen klimmen",
   "activity.play_ping_pong": "Tafeltennissen",
   "activity.skate": "Skaten",
-  "activity.swim": "Zwemmen"
+  "activity.swim": "Zwemmen",
+  "filter.title": "Filter",
+  "filter.by-activity": "Op activiteit"
 }

@@ -35,5 +35,7 @@
   "activity.climb_trees": "Лізти на дерева",
   "activity.play_ping_pong": "Грати в настільний теніс",
   "activity.skate": "Кататися на скейтборді",
-  "activity.swim": "Плавання"
+  "activity.swim": "Плавання",
+  "filter.title": "Фільтр",
+  "filter.by-activity": "За активністю"
 }
