@@ -37,5 +37,13 @@
   "activity.skate": "Кататися на скейтборді",
   "activity.swim": "Плавання",
   "filter.title": "Фільтр",
-  "filter.by-activity": "За активністю"
+  "filter.by-activity": "За активністю",
+  "filter.number-of-results": "показано результатів",
+  "filter.reset-button-label": "Скинути",
+  "filter.general-filter-instruction": "Клацніть будь-який фільтр, щоб звузити вибір.",
+  "filter.activity-filter-instruction": "Клацніть одну або кілька активностей, щоб відфільтрувати за ними.",
+  "filter.activity-filter-instruction-deselect": "Клацніть активності ще раз, щоб зняти їх вибір.",
+  "filter.by-rating": "За загальним рейтингом",
+  "filter.rating-filter-instruction": "Клацніть одну або кілька оцінок, щоб відфільтрувати за ними.",
+  "filter.rating-filter-instruction-deselect": "Клацніть оцінки ще раз, щоб зняти їхній вибір."
 }
