@@ -43,7 +43,11 @@
   "filter.general-filter-instruction": "Klik op een filter om de selectie te verfijnen.",
   "filter.activity-filter-instruction": "Klik op één of meer activiteiten om te filteren.",
   "filter.activity-filter-instruction-deselect": "Klik nogmaals op activiteiten om ze te deselecteren.",
-  "filter.by-rating": "Op algemene beoordeling",
+  "filter.by-rating": "Op beoordeling",
+  "filter.rating-overall": "Algemeen",
+  "filter.rating-safety": "Veiligheid",
+  "filter.rating-aesthetics": "Esthetiek",
+  "filter.rating-nature": "Natuur",
   "filter.rating-filter-instruction": "Klik op één of meer beoordelingen om te filteren.",
   "filter.rating-filter-instruction-deselect": "Klik nogmaals op beoordelingen om ze te deselecteren."
 }

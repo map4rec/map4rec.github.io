@@ -43,7 +43,11 @@
   "filter.general-filter-instruction": "Click any filter to narrow the selection.",
   "filter.activity-filter-instruction": "Click one or more activities to filter by them.",
   "filter.activity-filter-instruction-deselect": "Click activities again to deselect them.",
-  "filter.by-rating": "By overall rating",
+  "filter.by-rating": "By rating",
+  "filter.rating-overall": "Overall",
+  "filter.rating-safety": "Safety",
+  "filter.rating-aesthetics": "Aesthetics",
+  "filter.rating-nature": "Nature",
   "filter.rating-filter-instruction": "Click one or more ratings to filter by them.",
   "filter.rating-filter-instruction-deselect": "Click ratings again to deselect them."
 }
